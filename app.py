@@ -17,6 +17,7 @@ langtranslator = LanguageTranslatorV3(
 langtranslator.set_service_url(url)
 
 st.title("Language-Translator")
+st.write("Service By Dreaence, brother company of Dream of Data")
 
 # setting up the dropdown list of the languages
 
